@@ -8,7 +8,7 @@ h1 {
   text-align: center;
   font-size: 25px;
   font-family: Verdana;
-  font-weight: bold;
+  /*font-weight: bold;*/
   color: #A72308;
 }
 
@@ -18,15 +18,11 @@ div > h2 {
   border-right: none;
   top: -15px;
   right: 0px;
-  padding: 1px;
   background-color: #1A818F;
-  width: 30%;
-  margin-right: auto;
-  margin-left: auto;
+  width: 35%;
   font-family: Verdana;
   font-size: 16px;
   text-align: center;
-  color: white;
 }
 
 
@@ -38,14 +34,13 @@ div > h2 {
 
 .section {
   position: relative;
-	top: 0;
   margin: 15px;
   padding: 35px 25px 25px 25px;
   border: 3px solid black;
-	background-color: #D6DBDF;
-	text-align: justify;
-	font-size: 16px;
-	font-family: "Verdana", sans-serif;
+  background-color: #D6DBDF;
+  text-align: justify;
+  font-size: 16px;
+  font-family: "Verdana", sans-serif;
 }
 
 
